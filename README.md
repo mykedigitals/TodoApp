@@ -32,4 +32,4 @@ This project made me realize in brighter light that; whatsoever you set your min
 <h4>Author:</h4>
 <h5>Oluwasegun Amuda</h5>
 <h5>ademilolaamuda@gmail.com</h5>
-<p>https://github.com/mykedigitals</p>
+<p color:blue>https://github.com/mykedigitals</p>
