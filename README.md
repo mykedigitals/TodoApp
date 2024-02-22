@@ -27,3 +27,9 @@ There is a little persistence in the web app, as to even if you refresh your bro
 The most difficult part of this web app is the linking the UI with the backend and authentication process, I crashed the app twice because of this and also getting documentations with enough information to write a code without getting bugs or errors 
 
 This project made me realize in brighter light that; whatsoever you set your mind to, you can achieve as long as you give it your all, I appreciate my mentor, a senior colleague also graduated from ALXSE, he guided me and help me fix an error that I’ve been battling with for over four days.
+
+
+<h4>Author:</h4>
+<h5>Oluwasegun Amuda</h5>
+<h5>ademilolaamuda@gmail.com</h5>
+<p>https://github.com/mykedigitals</p>
