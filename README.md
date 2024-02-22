@@ -11,20 +11,13 @@ Using MERN stack to complete the project from start to finish isn’t a child’
 <h3>Talking about the technology behind the website:</h3>
 
 <h4>Front-end Technology</h4>
-ReactJs
-Material UI library for the user interface
-React router dom
-Redux
+ReactJs || Material UI library for the user interface || React router dom || Redux
 
 <h4>Back-end Technology</h4>
-NodeJs
-Mongodb
-ExpressJs 
+NodeJs || Mongodb || ExpressJs 
 
 <h4>Authentication</h4>
-Jwt web token
-Joi
-dotenv (.env)
+Jwt web token || Joi || dotenv (.env)
 
 This app is fully responsive and user experience was considered, 
 Without creating a user account users cannot create a todo list, edit or access todos
