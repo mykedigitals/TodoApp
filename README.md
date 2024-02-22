@@ -8,20 +8,20 @@ The project was solely developed and deployed by me alone. Sigh, it was a rough 
 
 Using MERN stack to complete the project from start to finish isn’t a child’s play especially when you do not have any experience of JavaScript full stack development 
 
-Talking about the technology behind the website:
+<h3>Talking about the technology behind the website:</h3>
 
-Front-end Technology
-ReactJs 
-Material UI library for the user interface 
-React router dom 
+<h4>Front-end Technology</h4>
+ReactJs
+Material UI library for the user interface
+React router dom
 Redux
 
-Back-end Technology 
-NodeJs 
-Mongodb 
+<h4>Back-end Technology</h4>
+NodeJs
+Mongodb
 ExpressJs 
 
-Authentication 
+<h4>Authentication</h4>
 Jwt web token
 Joi
 dotenv (.env)
